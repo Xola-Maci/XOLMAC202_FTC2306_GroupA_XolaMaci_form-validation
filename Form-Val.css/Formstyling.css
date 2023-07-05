@@ -11,6 +11,8 @@ body {
 label {
     margin: auto;
     padding-bottom: 10px;
+    display: inline-block;
+    width: 150px;
 }
 
 div {
@@ -32,7 +34,17 @@ form label {
     font-size: 100%;
 }
 
-
 span {
     color: red;
 }
+
+  
+  textarea {
+    padding: 5px;
+    height: 100px;
+  }
+  
+ .about-lab{
+    vertical-align: top;
+ }
+  
